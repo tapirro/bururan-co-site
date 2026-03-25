@@ -1,0 +1,32 @@
+{
+  "maca-peruana": {
+    "local_path": "assets/img/content/maca-peruana.jpg",
+    "attribution_html": "Foto: Frank Vincentz / <a href=\"https://commons.wikimedia.org/wiki/File%3AKluse_-_Lepidium_meyenii_-_Maca_01_ies.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" rel=\"nofollow\">CC BY-SA 3.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AKluse_-_Lepidium_meyenii_-_Maca_01_ies.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "saw-palmetto": {
+    "local_path": "assets/img/content/saw-palmetto.jpg",
+    "attribution_html": "Foto: Miguel Vieira from Walnut Creek, CA, USA / <a href=\"https://commons.wikimedia.org/wiki/File%3ASaw_palmetto_%28Serenoa_repens%29_in_Manatee_Springs_State_Park.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"nofollow\">CC BY 2.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3ASaw_palmetto_%28Serenoa_repens%29_in_Manatee_Springs_State_Park.jpg",
+    "license": "CC BY 2.0"
+  },
+  "l-arginina": {
+    "local_path": "assets/img/content/l-arginina.jpg",
+    "attribution_html": "Foto: Mplanine / <a href=\"https://commons.wikimedia.org/wiki/File%3AAmino_acid_synthesis01_a-ketoglutarate_family.png\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"nofollow\">CC0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AAmino_acid_synthesis01_a-ketoglutarate_family.png",
+    "license": "CC0"
+  },
+  "prostata-agrandada": {
+    "local_path": "assets/img/content/prostata-agrandada.jpg",
+    "attribution_html": "Foto: Henry Vandyke Carter / <a href=\"https://commons.wikimedia.org/wiki/File%3AGray543.png\" rel=\"nofollow\">Wikimedia Commons</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AGray543.png",
+    "license": "Public domain"
+  },
+  "disfuncion-erectil": {
+    "local_path": "assets/img/content/disfuncion-erectil.jpg",
+    "attribution_html": "Foto: James-Alex Matthews, Infers Group / <a href=\"https://commons.wikimedia.org/wiki/File%3AInfers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg\" rel=\"nofollow\">Wikimedia Commons</a> / <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow\">CC BY-SA 4.0</a>",
+    "wiki_page": "https://commons.wikimedia.org/wiki/File%3AInfers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg",
+    "license": "CC BY-SA 4.0"
+  }
+}
