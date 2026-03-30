@@ -363,20 +363,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 .fn-footer-col a{color:#64748b;text-decoration:none;font-size:0.8rem}
 .fn-footer-col a:hover{color:#7c3aed}
 .fn-footer-copy{text-align:center;color:#94a3b8;font-size:0.75rem;margin-top:1.5rem}
-
-/* DIFFERENTIATION SECTIONS */
-.testimonials{padding:5rem 1.5rem;background:#fafafa}
-.testimonials-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem;max-width:1200px;margin:0 auto}
-.testimonial-card{background:#fff;padding:2rem;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
-.testimonial-text{font-size:1.1rem;color:var(--slate-700);margin-bottom:1.5rem;line-height:1.6;font-style:italic}
-.testimonial-author{display:flex;align-items:center;gap:0.5rem;font-weight:600;color:var(--slate-800)}
-.verified-badge{font-size:0.8rem;color:#059669}
-.urgency-banner{background:#dc2626;color:#fff;text-align:center;padding:0.75rem 1rem;position:sticky;top:0;z-index:1000;font-weight:600}
-.urgency-banner p{margin:0}
-.pain-stat{background:#fef3c7;padding:3rem 1.5rem}
-.pain-stat-inner{max-width:800px;margin:0 auto;display:flex;align-items:center;gap:1.5rem}
-.pain-stat-icon{font-size:3rem;flex-shrink:0}
-.pain-stat-text{font-size:1.3rem;font-weight:700;color:var(--amber-800)}
 </style>
     <link rel="preload" as="image" href="assets/img/bururan-product.png" imagesrcset="assets/img/bururan-product.webp" imagesizes="100vw" type="image/webp">
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Bururan Colombia", "url": "https://bururan.co", "alternateName": "Bururan Colombia"}</script>
@@ -418,13 +404,6 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 
 </head>
 <body>
-<!-- URGENCY BANNER -->
-<div class="urgency-banner">
-  <div class="container">
-    <p>📦 Envío GRATIS a todo el Perú hoy</p>
-  </div>
-</div>
-
 <nav class="fn-nav" role="navigation" aria-label="Navegación del sitio">
   <a href="/" class="fn-active" class="fn-brand">Bururan</a>
   <div class="fn-links">
@@ -461,8 +440,8 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 <section class="hero" id="inicio">
   <div class="hero-inner">
     <div class="hero-content reveal">
-      <span class="hero-badge">Apoyo Digestivo Tradicional de los Andes</span>
-      <h1>La receta que los abuelos usaban para la digestión</h1>
+      <span class="hero-badge">Salud Prostática y Vitalidad</span>
+      <h1>¿Visitas frecuentes al baño de noche? Bururan reduce necesidad de orinar en 3 semanas <span>Salud prostática natural</span></h1>
 <div class="eeat-updated"><svg viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm0 14.5A6.5 6.5 0 1 1 8 1.5a6.5 6.5 0 0 1 0 13zM8.5 4H7v5l4.3 2.5.7-1.2-3.5-2V4z"/></svg> Última actualización: 26 de marzo de 2026</div>
       <p class="hero-desc"><p class="hero-desc">Saw palmetto estandarizado 85-95% ácidos grasos + zinc + beta-sitosterol para salud prostática. Sin efectos secundarios. Envío discreto.</p><p class="hero-desc">Saw palmetto estandarizado 85-95% ácidos grasos + zinc + beta-sitosterol para salud prostática. Sin efectos secundarios. Envío discreto.<p class="hero-desc">Saw palmetto estandarizado 85-95% ácidos grasos + zinc + beta-sitosterol para salud prostática. Sin efectos secundarios. Envío discreto.<p class="hero-desc">Saw palmetto estandarizado 85-95% ácidos grasos + zinc + beta-sitosterol para salud prostática. Sin efectos secundarios. Envío discreto.Bururan combina 8 ingredientes activos respaldados por la ciencia para reducir la inflamación prostática, mejorar el flujo urinario y apoyar tu función sexual de forma natural.
       <div class="hero-trust">
@@ -978,36 +957,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </div>
     </div>
 </div>
-    <!-- TESTIMONIALS -->
-<section class="testimonials">
-  <div class="container">
-    <h2 class="section-title">Lo que dicen nuestros clientes</h2>
-    <div class="testimonials-grid">
-      <div class="testimonial-card">
-        <p class="testimonial-text">"Mi abuela me enseñó estas hierbas. Bururan las trae a mi casa en una cápsula."</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Rosa M., Ancash</span>
-          <span class="verified-badge">✓ Verificado</span>
-        </div>
-      </div>
-      <div class="testimonial-card">
-        <p class="testimonial-text">"En la altura, la digestión es difícil. Bururan me ha ayudado mucho."</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Pedro S., Puno</span>
-          <span class="verified-badge">✓ Verificado</span>
-        </div>
-      </div>
-      <div class="testimonial-card">
-        <p class="testimonial-text">"Es como tomar el té de la abuela, pero en cápsula."</p>
-        <div class="testimonial-author">
-          <span class="testimonial-name">Teresa Q., Cusco</span>
-          <span class="verified-badge">✓ Verificado</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<footer class="footer">
+    <footer class="footer">
   <div class="footer-inner">
     <div class="footer-links">
       <a href="#inicio">Inicio</a>
@@ -1181,7 +1131,7 @@ document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el)
 
     <noscript>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 2rem auto; padding: 2rem; background: #fff; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-            <h1>La receta que los abuelos usaban para la digestión</h1>
+            <h1>¿Visitas frecuentes al baño de noche? Bururan reduce necesidad de orinar en 3 semanas <span>Salud prostática natural</span></h1>
             <p style="color: #495057; margin: 1.5rem 0; font-size: 1.1rem; line-height: 1.8;">★4.7/5 en 47 opiniones. Bururan: saw palmetto, ortiga, zinc para salud prostática. Precio $139.900. Estudios, efectos y dónde comprar en Colombia.</p>
             <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
                 <p style="color: #6c757d; margin: 0 0 0.5rem 0; font-weight: 600;">Información del Producto</p>
