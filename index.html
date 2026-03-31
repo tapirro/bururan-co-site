@@ -746,7 +746,19 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       </div>
     </div>
   </div>
-</section><!-- TRUST BANNER -->
+</section><!-- ORIGIN SECTION -->
+<section class="why-section" id="origen">
+  <div class="section-inner" style="max-width: var(--content-w); margin: 0 auto; padding: 4rem 1.5rem;">
+    <h2 style="font-size: 2rem; color: var(--slate-900); margin-bottom: 1.5rem; font-weight: 700; line-height: 1.2;">Origen: Tradición andina para el bienestar masculino</h2>
+    <div style="line-height: 1.8; color: var(--slate-700); margin-bottom: 2rem;">
+<p>En los Andes peruanos, hombres de todas las edades han buscado durante siglos formas naturales de mantener su vitalidad y salud prostática. Las plantas de la selva alta y los valles interandinos guardan secretos que la ciencia moderna está redescubriendo.</p>
+<p>Bururan combina tres ingredientes con una tradición milenaria: <strong>saw palmetto</strong> (usado por indígenas de Norteamérica para salud urinaria), <strong>maca</strong> (cultivada en los Andes peruanos desde antes del incanato por sus propiedades vigorizantes) y <strong>zinc</strong> (un mineral esencial que tradicionalmente se obtenía de la dieta rica en quinoa y legumbres de los pueblos andinos).</p>
+<p>Nuestra fórmula no es casualidad. Cada componente fue seleccionado por su historia de uso tradicional en comunidades que valoran la salud masculina como parte integral del bienestar familiar. Cuando tomas Bururan, no estás solo tomando un suplemento: estás conectándote con sabiduría que ha atravesado generaciones.</p>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST BANNER -->
 <section class="trust-banner">
   <div class="trust-banner-inner">
     <div class="trust-item-block">
@@ -1305,6 +1317,17 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var videos=document.querySelectorAll('.video-embed-section video');
       if(!videos.length)return;
       var played={};
+      var API='https://pricing-oil-trek-costs.trycloudflare.com';
+      function track(evt,vid,src){
+        if(window.goatcounter&&window.goatcounter.count){
+          window.goatcounter.count({path:'embed/'+evt+'/'+src+'/'+vid,title:'Embed '+evt+': '+vid,event:true});
+        }
+        if(API){
+          try{navigator.sendBeacon(API+'/api/analytics',JSON.stringify({
+            event:evt,video:vid,site:location.hostname,source:src,ts:Date.now()
+          }))}catch(e){}
+        }
+      }
       var io=new IntersectionObserver(function(entries){
         entries.forEach(function(e){
           var v=e.target;
@@ -1321,16 +1344,12 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           var vid=v.getAttribute('data-video');
           if(!played[vid]){
             played[vid]=1;
-            if(window.goatcounter&&window.goatcounter.count){
-              window.goatcounter.count({path:'embed/play/'+v.getAttribute('data-src')+'/'+vid,title:'Embed play: '+vid,event:true});
-            }
+            track('play',vid,v.getAttribute('data-src'));
           }
         });
         v.addEventListener('click',function(){
           if(v.muted){v.muted=false;v.controls=true;
-            if(window.goatcounter&&window.goatcounter.count){
-              window.goatcounter.count({path:'embed/unmute/'+v.getAttribute('data-src')+'/'+v.getAttribute('data-video'),title:'Embed unmute',event:true});
-            }
+            track('unmute',v.getAttribute('data-video'),v.getAttribute('data-src'));
           }
           else if(v.paused){v.play()}
           else{v.pause()}
