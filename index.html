@@ -921,7 +921,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       var sid='s_'+Date.now()+'_'+Math.random().toString(36).substr(2,6);
       var visId=(function(){try{var v=localStorage.getItem('hs_vid');if(!v){v='v_'+Date.now()+'_'+Math.random().toString(36).substr(2,8);localStorage.setItem('hs_vid',v)}return v}catch(e){return 'v_'+Date.now()}})();
       var vn=(function(){try{var n=parseInt(localStorage.getItem('hs_vn')||'0')+1;localStorage.setItem('hs_vn',String(n));return n}catch(e){return 1}})();
-      var embedV=28;
+      var embedV=29;
       var ua=navigator.userAgent||'';
       var ref=document.referrer||'';
       var sw=screen.width||0;
@@ -1077,7 +1077,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           if(hasPlayed)showLeadForm();
         });
         v.addEventListener('timeupdate',function(){
-          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>8000)showLeadForm();
+          if(hasPlayed&&playStartTime&&(Date.now()-playStartTime)>5000)showLeadForm();
         });
       });
       // Lead form submission
@@ -1200,6 +1200,8 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         },{threshold:0});
         scrollObs.observe(section);
       }
+      // Page-time trigger: show form after 20s if user has interacted (even without video click)
+      setTimeout(function(){if(hadInteraction&&!formShown)showLeadForm()},20000);
       // Floating video CTA — draws attention to video section when it's below the fold
       // Appears after 5s, pulses, scrolls to videos on tap, hides when section is visible
       if(section){
@@ -1244,6 +1246,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuáles son las señales de alerta de la próstata?", "acceptedAnswer": {"@type": "Answer", "text": "Las tres señales principales: levantarse 2+ veces por noche al baño (puede indicar agrandamiento), flujo débil o intermitente (tratable, no lo ignores), y urgencia repentina. Consulta a tu médico ante cualquiera de estas señales."}}, {"@type": "Question", "name": "¿Cómo cuidar la próstata de forma natural?", "acceptedAnswer": {"@type": "Answer", "text": "Tres hábitos de prevención: tomate cocido (licopeno protector), semillas de calabaza (ricas en zinc), y 30 minutos de ejercicio diario. También se recomienda examen anual después de los 45 años."}}, {"@type": "Question", "name": "¿A qué edad empieza a crecer la próstata?", "acceptedAnswer": {"@type": "Answer", "text": "La próstata comienza a crecer naturalmente después de los 40 años (hiperplasia prostática benigna). A los 60, afecta al 50% de los hombres; a los 80, al 90%. El crecimiento es normal pero puede causar síntomas urinarios. Revisión anual desde los 45 es clave."}}, {"@type": "Question", "name": "¿Qué alimentos son malos para la próstata?", "acceptedAnswer": {"@type": "Answer", "text": "Evita: carnes rojas en exceso (más de 3 veces/semana), embutidos procesados, lácteos enteros en grandes cantidades, alcohol en exceso y alimentos muy picantes. Prefiere tomate cocido, brócoli, pescado azul y semillas de calabaza."}}, {"@type": "Question", "name": "¿Cómo saber si tengo problemas de próstata?", "acceptedAnswer": {"@type": "Answer", "text": "Síntomas comunes: levantarse 2+ veces por noche al baño, chorro débil o interrumpido, sensación de no vaciar completamente la vejiga, urgencia repentina, y goteo al terminar. Si tienes 2 o más síntomas, consulta a un urólogo. El examen PSA + tacto rectal es la prueba estándar."}}]}</script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
