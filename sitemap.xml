@@ -1,84 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-           xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bururan.co/</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
-      <!-- hilart-shorts-video-sitemap -->
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/117_hero_bururan_c310.jpg</video:thumbnail_loc>
-      <video:title>¿Problemas de próstata después de los 40?</video:title>
-      <video:description>Video informativo sobre Bururan - ¿Problemas de próstata después de los 40?</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/117_hero_bururan_c310.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/41_curiosity_gap_education_bururan.jpg</video:thumbnail_loc>
-      <video:title>Lo que no te dicen sobre la próstata</video:title>
-      <video:description>Video informativo sobre Bururan - Lo que no te dicen sobre la próstata</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/41_curiosity_gap_education_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/65_question_education_bururan.jpg</video:thumbnail_loc>
-      <video:title>¿Molestias al orinar? Mira esto</video:title>
-      <video:description>Video informativo sobre Bururan - ¿Molestias al orinar? Mira esto</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/65_question_education_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/24_doctor_says_problem_solution_bururan.jpg</video:thumbnail_loc>
-      <video:title>Solución natural para la próstata</video:title>
-      <video:description>Video informativo sobre Bururan - Solución natural para la próstata</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/24_doctor_says_problem_solution_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/44_myth_bust_myth_debunk_bururan.jpg</video:thumbnail_loc>
-      <video:title>Mitos sobre la próstata que debes conocer</video:title>
-      <video:description>Video informativo sobre Bururan - Mitos sobre la próstata que debes conocer</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/44_myth_bust_myth_debunk_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/68_before_after_transformation_bururan.jpg</video:thumbnail_loc>
-      <video:title>Cambios reales en tu bienestar prostático</video:title>
-      <video:description>Video informativo sobre Bururan - Cambios reales en tu bienestar prostático</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/68_before_after_transformation_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/71_shock_reveal_testimonial_bururan.jpg</video:thumbnail_loc>
-      <video:title>Lo que nadie te cuenta sobre la próstata</video:title>
-      <video:description>Video informativo sobre Bururan - Lo que nadie te cuenta sobre la próstata</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/71_shock_reveal_testimonial_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://storage.googleapis.com/mamitu-ai-videos/thumbnails/10_listicle_bururan.jpg</video:thumbnail_loc>
-      <video:title>5 señales de alerta prostática</video:title>
-      <video:description>Video informativo sobre Bururan - 5 señales de alerta prostática</video:description>
-      <video:content_loc>https://storage.googleapis.com/mamitu-ai-videos/videos/10_listicle_bururan.mp4</video:content_loc>
-      <video:duration>15</video:duration>
-      <video:publication_date>2026-03-31</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
   </url>
   <url>
     <loc>https://bururan.co/como-se-toma/</loc>
@@ -157,5 +83,131 @@
     <lastmod>2026-03-30</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-prostata-agrandada/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-prostatitis/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-dificultad-para-orinar/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-disfuncion-erectil/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-testosterona-baja/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-miccion-frecuente/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-dolor-al-orinar/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-chorro-debil/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-goteo-post-miccional/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-eyaculacion-precoz/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-libido-baja/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-infertilidad-masculina/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-adenoma-prostatico/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-dolor-testicular/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-prostata-inflamada/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-andropausia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-nicturia/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-cancer-prostata-prevencion/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-psa-elevado/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-nicturia-prostata/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bururan.co/para-disfuncion-erectil-prostata/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
