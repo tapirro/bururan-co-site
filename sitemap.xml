@@ -703,7 +703,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/cabello-y-anemia-mujeres-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-y-contaminacion-ambiental/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/cabello-y-dieta-colombiana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-y-dieta-vegana/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -729,6 +747,18 @@
   <url>
     <loc>https://bururan.co/condiciones/cabello-y-medicamentos/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-y-piscina-cloro/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-y-postparto-lactancia/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
