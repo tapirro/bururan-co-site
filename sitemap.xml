@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://bururan.co/opiniones/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -434,7 +434,7 @@
   </url>
   <url>
     <loc>https://bururan.co/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -554,7 +554,7 @@
   </url>
   <url>
     <loc>https://bururan.co/condiciones/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -667,8 +667,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/cabello-graso/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/cabello-quebradizo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-seco/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -877,6 +889,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/cuero-cabelludo-sensible/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/dermatitis-seborreica-cuero-cabelludo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -921,6 +939,12 @@
   <url>
     <loc>https://bururan.co/condiciones/efluvio-telogeno/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/encanecimiento-prematuro/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -991,6 +1015,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/perdida-de-densidad-capilar/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/prostata-agrandada/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1051,6 +1081,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/puntas-abiertas/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/que-sirve/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1091,41 +1127,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/encanecimiento-prematuro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cabello-seco/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/puntas-abiertas/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/perdida-de-densidad-capilar/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cuero-cabelludo-sensible/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cabello-graso/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
