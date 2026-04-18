@@ -349,6 +349,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/ingrediente/luteina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/ingrediente/maca/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -357,6 +363,12 @@
   <url>
     <loc>https://bururan.co/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/ingrediente/melatonina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -379,8 +391,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/ingrediente/probioticos/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/ingrediente/pygeum/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/ingrediente/resveratrol/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -405,6 +429,12 @@
   <url>
     <loc>https://bururan.co/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/ingrediente/taurina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -589,6 +619,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/alopecia-androgenetica-femenina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/alopecia-androgenetica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -597,6 +633,12 @@
   <url>
     <loc>https://bururan.co/condiciones/alopecia-areata/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/alopecia-cicatricial/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -625,6 +667,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/alopecia-por-deficit-nutricional/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/alopecia-por-estres/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -637,8 +685,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/alopecia-por-traccion/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/alopecia-y-autoinmunidad/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/alopecia-y-estres-laboral-colombia/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -651,6 +711,12 @@
   <url>
     <loc>https://bururan.co/condiciones/andropausia/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-danado-por-quimica/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -669,6 +735,12 @@
   <url>
     <loc>https://bururan.co/condiciones/cabello-debil-por-tiroides/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-electrico/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -692,6 +764,12 @@
   </url>
   <url>
     <loc>https://bururan.co/condiciones/cabello-graso/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-opaco/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -727,6 +805,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/cabello-y-alisado-quimico-co/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/cabello-y-altitud-bogota/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -735,6 +819,12 @@
   <url>
     <loc>https://bururan.co/condiciones/cabello-y-anemia-mujeres-co/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/cabello-y-cloro-piscina-co/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -841,6 +931,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/caida-cabello-y-agua-dura-bogota/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/caida-cabello-y-estres-laboral-co/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -849,6 +945,12 @@
   <url>
     <loc>https://bururan.co/condiciones/caida-cabello-y-sombrero-colombiano/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/caida-estacional/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -897,6 +999,12 @@
   <url>
     <loc>https://bururan.co/condiciones/chorro-debil/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/crecimiento-lento-del-cabello/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -997,6 +1105,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/hipotricosis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/incontinencia-urinaria-hombres/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1029,6 +1143,12 @@
   <url>
     <loc>https://bururan.co/condiciones/nicturia/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/pediculosis/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1117,6 +1237,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bururan.co/condiciones/quiste-sebaceo-cuero-cabelludo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bururan.co/condiciones/seborrea-capilar/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bururan.co/condiciones/testosterona-baja/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1151,113 +1283,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://bururan.co/ingrediente/probioticos/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/ingrediente/resveratrol/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/ingrediente/melatonina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/ingrediente/luteina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/ingrediente/taurina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/alopecia-por-traccion/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cabello-danado-por-quimica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/pediculosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/hipotricosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/alopecia-cicatricial/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cabello-opaco/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/quiste-sebaceo-cuero-cabelludo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/seborrea-capilar/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/alopecia-androgenetica-femenina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/caida-estacional/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/cabello-electrico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/alopecia-por-deficit-nutricional/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bururan.co/condiciones/crecimiento-lento-del-cabello/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
